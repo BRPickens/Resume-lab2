@@ -1,16 +1,11 @@
 nav {
-  background-color: black !important; }
-
-.parallax-container {
-  height: "450px"; }
-
-h2 h5 p {
-  color: #f7d124 !important; }
-
-.logo {
-  padding: 14400; }
-
-a {
+  background-color: black !important;
   color: #f7d124; }
+
+* {
+  box-sizing: border-box !important; }
+
+.footer .li {
+  display: inline-block; }
 
 /*# sourceMappingURL=main.css.map */
